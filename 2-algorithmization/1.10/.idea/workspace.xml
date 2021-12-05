@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8184523e-bc7b-44c7-b1e0-6672050b8f6c" name="Changes" comment="" />
+    <list default="true" id="fbfb3208-47d6-4cbc-bd22-23d2dbfe75ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="21rXPsPDXY8pyHmg0EAQzz3Gluu" />
+  <component name="ProjectId" id="21rd5kn1NTE1zmEYL0PvTCXb16R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -75,12 +75,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="1.9" />
+      <module name="1.10" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -97,11 +97,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8184523e-bc7b-44c7-b1e0-6672050b8f6c" name="Changes" comment="" />
-      <created>1638700160329</created>
+      <changelist id="fbfb3208-47d6-4cbc-bd22-23d2dbfe75ae" name="Changes" comment="" />
+      <created>1638702961933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1638700160329</updated>
+      <updated>1638702961933</updated>
     </task>
     <servers />
   </component>
