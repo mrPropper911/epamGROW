@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
 	/*7. Сформировать квадратную матрицу порядка N по правилу:*/
         int n;//matrix size
+        int countPositive = 0;
 
         BufferedReader buff = new BufferedReader(new InputStreamReader(System.in));
         do {
@@ -25,9 +26,11 @@ public class Main {
 
         for (int i = 0; i < n; i++){
             for (int j = 0; j < n; j++){
-                System.out.print(matrix[i][j] + " ");
+                if (matrix[i][j] > 0)
+                    countPositive++;
             }
-            System.out.println();
         }
+
+        System.out.println("Number of positive elements: " + countPositive);
     }
 }
