@@ -13,7 +13,6 @@ public class Main {
         BufferedReader buff = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter number of elements: ");
         n = Integer.parseInt(buff.readLine());
-
         int[] array = new int[n];
         System.out.println("Enter " + n + " array elements:");
         for (int i = 0; i < n; i++){
