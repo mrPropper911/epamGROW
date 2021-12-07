@@ -15,7 +15,7 @@ public class Main {
         y2 = Double.parseDouble(buff.readLine());
         x3 = Double.parseDouble(buff.readLine());
         y3 = Double.parseDouble(buff.readLine());
-        if ((x3 - x1) / (x2 - x1) == (y3 - y1) / (y2 - y1))
+        if ((x3 - x1) / (x2 - x1) == (y3 - y1) / (y2 - y1) || x1 == x2 && x2 == x3 || y1 == y2 && y2 == y3)
             System.out.println("Points are located on one straight line");
         else
             System.out.println("Points are not located on one straight line");
