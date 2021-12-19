@@ -113,7 +113,7 @@ public class Customer {
        myBank.customers.add(customer1);
        myBank.customers.add(customer2);
        myBank.customers.add(customer3);
-       
+
        while (true) {
            System.out.println("\nChoose operation: \n" +
                    "1 - Sort surnames by alphabet: \n" +
